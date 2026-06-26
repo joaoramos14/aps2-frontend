@@ -11,4 +11,4 @@ Publicação das atividades desenvolvidas ao longo da disciplina.
 
 ## Acesso
 
-[Clique aqui para acessar][https://seuusuario.github.io/aps2-frontend](https://joaoramos14.github.io/aps2-frontend/)
+[Clique aqui para acessar](https://joaoramos14.github.io/aps2-frontend/)
