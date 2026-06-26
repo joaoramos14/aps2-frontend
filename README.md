@@ -4,10 +4,10 @@ Publicação das atividades desenvolvidas ao longo da disciplina.
 
 ## Conteúdo
 
-- **Cap. 03** — Exercícios de HTML (cabeçalhos, imagens, links, listas)
-- **Cap. 04** — Float e responsivo com media queries
-- **Cap. 05** — Formulário, tabela e layout
-- **Projeto** — Aparecida Nutrição (cadastro de pacientes com JavaScript)
+- **Cap. 03**: Exercícios de HTML (cabeçalhos, imagens, links, listas)
+- **Cap. 04**: Float e responsivo com media queries
+- **Cap. 05**: Formulário, tabela e layout
+- **Projeto**: Aparecida Nutrição (cadastro de pacientes com JavaScript)
 
 ## Acesso
 
